@@ -1,0 +1,6 @@
+title: "Mes Cours - Mamouni"
+description: "Cours en informatique : C, Java, Structures de données"
+baseurl: "" 
+url: "https://mamouniabdelaziz.github.io/mes-cours"
+theme: minima
+markdown: kramdown
